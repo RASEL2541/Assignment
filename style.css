@@ -1,10 +1,14 @@
-img{
-    width: 100px;
+.haeder-logo img{
+    width: 220px;
+    background-color: rgba(108, 142, 143, 0.356);
 }
 button{
-    background-color: rgba(3, 112, 98, 0.973);
-    border-radius: 5px;
+    background-color: rgba(13, 112, 54, 0.801);
+    border-radius:20px;
 }
-section{
-    width: 200px;
+.footer{
+    background-color: black;
+}
+.card{
+    border: none;
 }
